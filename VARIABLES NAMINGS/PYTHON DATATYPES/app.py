@@ -22,3 +22,8 @@ x = {
 x={ "Iraguha" ,"cyusa" , "Mucyo"}
 # bool
 x= True
+
+# Python datatypes casting
+x=int(1) # will be 1
+x=int(2.2) # will be 2
+# float
