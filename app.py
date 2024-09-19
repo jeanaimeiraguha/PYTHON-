@@ -13,6 +13,7 @@ This IS THE USE OF MULTIPLE COMMENTS
   Name="Iraguha"
   y="hello"
   print(y + Name)
+  # Output is hello Iraguha
 
 
 
