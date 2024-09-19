@@ -6,6 +6,8 @@ print("Hello IRAGUHA")
 """""
 This IS THE USE OF MULTIPLE COMMENTS
 ""
+# these are the ways how yo could use comments in python
+ # ========================
 
 
 
