@@ -18,3 +18,7 @@ x=range(8)
 x = {
 "name":"Iraguha", "jobtittle":"python dev"
 }
+#set
+x={ "Iraguha" ,"cyusa" , "Mucyo"}
+# bool
+x= True
