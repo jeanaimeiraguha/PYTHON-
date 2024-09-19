@@ -10,3 +10,7 @@ my var=2
 my-var=4
 # CAmel Case
 myVariable="Iraguha"
+# pascal Case
+Myvaraible="Iraguha"
+# snake Case
+my_variable = "Iraguha"
