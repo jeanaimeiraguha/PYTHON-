@@ -19,4 +19,9 @@ my_variable = "Iraguha"
 Name="Iraguha"
 age=34
 result= input(Name + "" + "is" + "", age, "old")
-print(Name)
+print(result)
+# Global Variables
+Name=  "iraguha"
+def myfunc():
+    print(Name, "Handsome boy")
+
