@@ -1,3 +1,9 @@
+# This isbpython comments
+#eg print ("hello world")
+
+
+
+
 #program for predicting if aday is weekend day or
 """""
 weekend = ['sunday', 'saturday']
