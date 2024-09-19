@@ -27,3 +27,7 @@ x= True
 x=int(1) # will be 1
 x=int(2.2) # will be 2
 # float
+
+x= float(1) # will be 1.0
+#String
+x= str(2) # will be '2'
