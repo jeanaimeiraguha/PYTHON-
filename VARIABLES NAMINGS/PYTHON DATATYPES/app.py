@@ -8,3 +8,9 @@ x = 12.5
 x=2j
 # list
 x=["iraguha", "cyusa" , "mugisha"]
+
+# tuple
+x=("Iraguha", "cyusa")
+
+# range
+x=range(8)
