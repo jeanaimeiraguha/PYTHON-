@@ -24,4 +24,4 @@ print(result)
 Name=  "iraguha"
 def myfunc():
     print(Name, "Handsome boy")
-
+myfunc()
