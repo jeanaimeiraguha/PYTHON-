@@ -14,3 +14,9 @@ myVariable="Iraguha"
 Myvaraible="Iraguha"
 # snake Case
 my_variable = "Iraguha"
+
+# outputing variables
+Name="Iraguha"
+age=34
+result= input(Name + "" + "is" + "", age, "old")
+print(Name)
