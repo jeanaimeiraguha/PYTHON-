@@ -4,21 +4,24 @@
 #printing some message
 print("Hello IRAGUHA")
 
-This IS THE USE OF MULTIPLE COMMENTS
+#This IS THE USE OF MULTIPLE COMMENTS
 ""
 # these are the ways how yo could use comments in python
  # ========================
 
  # Use of python variables
-  Name="Iraguha"
-  y="hello"
-  print(y + Name)
+Name="Iraguha"
+y="hello"
+print(y + Name)
   # Output is hello Iraguha
 
   #Different datatypes
-  x= 1.0
-  Name="Iraguha"
-  IsStudent= true
+x= 1.0
+Name="Iraguha"
+IsStudent= True
+y=3
+#
+
 
 
 
