@@ -8,3 +8,5 @@ MyVar2= "Iraguha"
 2myvar=2
 my var=2
 my-var=4
+# CAmel Case
+myVariable="Iraguha"
