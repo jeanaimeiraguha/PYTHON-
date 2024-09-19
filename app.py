@@ -1,6 +1,8 @@
 # This isbpython comments
 #eg print ("hello world")
 
+#printing some message
+print("Hello IRAGUHA")
 
 
 
