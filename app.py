@@ -3,6 +3,10 @@
 
 #printing some message
 print("Hello IRAGUHA")
+"""""
+This IS THE USE OF MULTIPLE COMMENTS
+""
+
 
 
 
