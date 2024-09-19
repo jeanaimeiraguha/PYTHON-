@@ -14,3 +14,7 @@ x=("Iraguha", "cyusa")
 
 # range
 x=range(8)
+# dict
+x = {
+"name":"Iraguha", "jobtittle":"python dev"
+}
