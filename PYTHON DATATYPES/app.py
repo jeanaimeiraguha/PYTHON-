@@ -31,3 +31,4 @@ x=int(2.2) # will be 2
 x= float(1) # will be 1.0
 #String
 x= str(2) # will be '2'
+
