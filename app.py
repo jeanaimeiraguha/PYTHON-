@@ -20,7 +20,11 @@ x= 1.0
 Name="Iraguha"
 IsStudent= True
 y=3
-#
+#Lets check the datatype
+print(type(x))
+print(type(Name))
+print(type(IsStudent))
+print(type(y))
 
 
 
