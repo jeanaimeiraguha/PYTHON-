@@ -9,6 +9,10 @@ This IS THE USE OF MULTIPLE COMMENTS
 # these are the ways how yo could use comments in python
  # ========================
 
+ # Use of python variables
+  Name="Iraguha"
+  y="hello"
+  print(y + Name)
 
 
 
@@ -21,7 +25,7 @@ if day in weekend:
 else:
     print("Please go to work, we are not in the weekend.")
     """
-"""""
+"""""""
 # Calculating Area of rectangle
 Length = float(input("Enter Length: "))
 Width = float(input("Enter Width: "))
@@ -29,8 +33,5 @@ Width = float(input("Enter Width: "))
 # Calculate the area of the rectangle
 Area = Length * Width
 print("Area of my Rectangle is:", Area)
-"""
-
-# face recorgination python script
-
+"""""
 
