@@ -1,3 +1,6 @@
+"""""
+
+
 # while loops
 i=1
 while i <6:
@@ -10,6 +13,19 @@ while i <6:
    #continue
    break
 i+=1
+"""""
+
+# for loop
+Names=[
+ "sd", 
+
+ "Iraguha" 
+
+]
+for x in  Names:
+ if x== "sd":
+  break 
+ print(x)
  
 
 
