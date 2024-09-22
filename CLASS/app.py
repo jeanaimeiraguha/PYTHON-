@@ -17,6 +17,7 @@ class Dog:
 
 # Driver code
 # Object instantiation
+# get started with classess
 Rodger = Dog()
 
 # Accessing class attributes
