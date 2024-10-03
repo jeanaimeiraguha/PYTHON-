@@ -8,9 +8,9 @@ product=[
         , "orange"
     
 ]
-if "mango" in product:
+if product in product:
     print("product exist")
-elif "orange " in product:
+elif product  in product:
     print("orange already exists")
 else:
     print("nothing to show")
