@@ -1,5 +1,6 @@
 # Python Get Started
 # With IRAGUHA 
+**Keep on following these**
 
 Welcome to the Python Get Started guide! This file will introduce you to fundamental concepts in Python, helping you to quickly grasp the basics and start coding.
 
@@ -26,3 +27,6 @@ Python is a high-level, interpreted programming language known for its readabili
 3. **Verify Installation:** Open your terminal or command prompt and run:
    ```bash
    python --version
+
+
+
