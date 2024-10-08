@@ -1,4 +1,6 @@
 # Creation of class
-class Myclas:
-    x=4
-    
+class Person:
+    def _int_(self,name, age):
+        self.name=name
+        self.age=age
+ 
