@@ -19,7 +19,7 @@ class Person:
     self.age = age
 
   def myfunc(self):
-    print("Hello my name is " + self.name)
+    print("Hello my name is " + self.name ,"am",self.age, "old")
 
 p1 = Person("Iraguha", 19)
 p1.myfunc()
