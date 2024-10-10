@@ -69,9 +69,13 @@ not in	Returns True if a sequence with the specified value is not present in the
 """""
 not in	Returns True if a sequence with the specified value is not present in the object	x not in y	
 Python Bitwise Operators
-Bitwise operators are used to compare (binary) numbers:
 
-Operator	Name	Description	Example	Try it
+
+Bitwise operators are used to compare (binary) numbers:
+----------------------------------------
+Operator |	Name |	Description	|Example	
+----------------------------------------
+    
 & 	AND	Sets each bit to 1 if both bits are 1	x & y	
 |	OR	Sets each bit to 1 if one of two bits is 1	x | y	
 ^	XOR	Sets each bit to 1 if only one of two bits is 1	x ^ y	
