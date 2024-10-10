@@ -18,7 +18,7 @@ else:
 
     """
 
-#lets check the if marks deserves to be competent
+#lets check the  grades based on marks
 
 
 marks=59
