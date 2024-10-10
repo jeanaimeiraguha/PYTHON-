@@ -1,4 +1,4 @@
-
+""""
 # conditionals
 
 
@@ -16,6 +16,19 @@ else:
 
     # elif
 
+    """
+
+#lets check the if marks deserves to be competent
+
+
+marks=70
+if marks>=70:
+    print('passesd')
+elif marks<70:
+
+    print('failed')
+else:
+    print("plz enter valid marks")
 
 
 
