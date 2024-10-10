@@ -21,14 +21,10 @@ else:
 #lets check the if marks deserves to be competent
 
 
-marks=70
+marks=100
 if marks>=70:
-    print('passesd')
-elif marks<70:
+    print('competent')
 
-    print('failed')
-else:
-    print("plz enter valid marks")
 
 
 
