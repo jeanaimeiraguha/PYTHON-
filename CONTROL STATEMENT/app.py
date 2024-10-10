@@ -22,11 +22,14 @@ else:
 
 
 marks=100
-if marks>=70:
-    print('competent')
+if marks>70:
+    print('Grade A')
+elif marks>=60:
+    print("Grade B")
+ 
+    
+else:
+    print("failed ")
 
+   # SWITCH statement
 
-
-
-
-   
