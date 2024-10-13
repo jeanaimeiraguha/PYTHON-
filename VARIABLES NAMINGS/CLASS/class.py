@@ -12,6 +12,7 @@ class Person:
        print(p1.firstName ,p1.lastName)
        
 """""
+# Working normally
 class Person:
   def __init__(self, first_name, last_name, age, address):
     self.first_name = first_name
