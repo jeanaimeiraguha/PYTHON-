@@ -7,6 +7,7 @@ while count<10:
     count=count -1
 
 """
+"""
 number=int(input("Enter Any number in range between 100 and 500:"))
  #number=int(input("Enter Any number in range between 100 and 500"))
 while number<100 or number >500:
@@ -14,4 +15,10 @@ while number<100 or number >500:
    
 else:
     print("Given Number is correct", number)
-    
+    """
+User_info=[{
+    "names":"Iraguha",
+    "age":299
+}]
+for x in User_info:
+    print(x)
